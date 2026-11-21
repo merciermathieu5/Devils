@@ -1,39 +1,52 @@
 {
- "genere": "2026-11-19T11:35:56.511Z",
+ "genere": "2026-11-21T10:57:54.813Z",
  "equipe": "NEWJERSEY",
- "fiche": "NEWJERSEY 4-12-2",
+ "fiche": "NEWJERSEY 4-12-3",
  "pointage": {
-  "releve": "2026-11-19T11:35:56.511Z",
+  "releve": "2026-11-21T10:57:54.813Z",
   "patineurs": [
    {
     "nom": "Matthew Tkachuk",
-    "gp": 18,
+    "gp": 19,
     "goals": 10,
-    "assists": 7,
-    "pts": 17,
-    "plusminus": -11,
-    "pim": 8,
+    "assists": 9,
+    "pts": 19,
+    "plusminus": -10,
+    "pim": 12,
     "ppg": 1,
     "gwg": 0,
-    "shots": 41,
-    "hits": 48
+    "shots": 44,
+    "hits": 51
    },
    {
     "nom": "Frank Nazar",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
     "assists": 13,
     "pts": 17,
     "plusminus": -1,
-    "pim": 12,
+    "pim": 14,
     "ppg": 1,
     "gwg": 1,
     "shots": 28,
-    "hits": 20
+    "hits": 22
+   },
+   {
+    "nom": "Kirill Kaprizov",
+    "gp": 19,
+    "goals": 6,
+    "assists": 9,
+    "pts": 15,
+    "plusminus": -13,
+    "pim": 4,
+    "ppg": 1,
+    "gwg": 1,
+    "shots": 51,
+    "hits": 25
    },
    {
     "nom": "Morgan Frost",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
     "assists": 11,
     "pts": 15,
@@ -41,99 +54,86 @@
     "pim": 6,
     "ppg": 1,
     "gwg": 0,
-    "shots": 39,
-    "hits": 24
+    "shots": 41,
+    "hits": 25
    },
    {
     "nom": "Dante Fabbro",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
-    "assists": 10,
-    "pts": 14,
+    "assists": 11,
+    "pts": 15,
     "plusminus": -8,
     "pim": 2,
     "ppg": 1,
     "gwg": 1,
-    "shots": 40,
-    "hits": 29
-   },
-   {
-    "nom": "Kirill Kaprizov",
-    "gp": 18,
-    "goals": 4,
-    "assists": 9,
-    "pts": 13,
-    "plusminus": -14,
-    "pim": 4,
-    "ppg": 1,
-    "gwg": 1,
-    "shots": 47,
-    "hits": 23
+    "shots": 43,
+    "hits": 32
    },
    {
     "nom": "Joel Farabee",
-    "gp": 18,
-    "goals": 7,
-    "assists": 4,
-    "pts": 11,
+    "gp": 19,
+    "goals": 8,
+    "assists": 5,
+    "pts": 13,
     "plusminus": -5,
     "pim": 23,
-    "ppg": 2,
+    "ppg": 3,
     "gwg": 0,
-    "shots": 61,
-    "hits": 22
+    "shots": 65,
+    "hits": 24
    },
    {
     "nom": "Luke Tuch",
-    "gp": 18,
+    "gp": 19,
     "goals": 6,
-    "assists": 5,
-    "pts": 11,
+    "assists": 7,
+    "pts": 13,
     "plusminus": 0,
     "pim": 44,
     "ppg": 1,
     "gwg": 0,
     "shots": 29,
-    "hits": 28
+    "hits": 29
    },
    {
     "nom": "Cole Sillinger",
-    "gp": 18,
+    "gp": 19,
     "goals": 3,
-    "assists": 8,
-    "pts": 11,
+    "assists": 9,
+    "pts": 12,
     "plusminus": -9,
-    "pim": 8,
+    "pim": 10,
     "ppg": 1,
     "gwg": 0,
-    "shots": 39,
-    "hits": 18
+    "shots": 42,
+    "hits": 21
    },
    {
     "nom": "Phillip Danault",
-    "gp": 1,
-    "goals": 0,
-    "assists": 0,
-    "pts": 0,
-    "plusminus": 0,
+    "gp": 2,
+    "goals": 1,
+    "assists": 1,
+    "pts": 2,
+    "plusminus": 1,
     "pim": 2,
     "ppg": 0,
     "gwg": 0,
-    "shots": 3,
-    "hits": 3
+    "shots": 4,
+    "hits": 4
    },
    {
     "nom": "Aaron Ekblad",
-    "gp": 18,
+    "gp": 19,
     "goals": 2,
     "assists": 7,
     "pts": 9,
-    "plusminus": -9,
+    "plusminus": -8,
     "pim": 2,
     "ppg": 0,
     "gwg": 0,
-    "shots": 23,
-    "hits": 39
+    "shots": 25,
+    "hits": 40
    },
    {
     "nom": "Olen Zellweger",
@@ -150,7 +150,7 @@
    },
    {
     "nom": "Tobias Bjornfot",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 6,
     "pts": 7,
@@ -158,12 +158,12 @@
     "pim": 4,
     "ppg": 0,
     "gwg": 0,
-    "shots": 25,
-    "hits": 33
+    "shots": 27,
+    "hits": 36
    },
    {
     "nom": "Keegan Kolesar",
-    "gp": 18,
+    "gp": 19,
     "goals": 3,
     "assists": 3,
     "pts": 6,
@@ -171,12 +171,12 @@
     "pim": 2,
     "ppg": 0,
     "gwg": 1,
-    "shots": 15,
-    "hits": 22
+    "shots": 16,
+    "hits": 23
    },
    {
     "nom": "Noah Juulsen",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 3,
     "pts": 4,
@@ -184,8 +184,8 @@
     "pim": 30,
     "ppg": 0,
     "gwg": 0,
-    "shots": 26,
-    "hits": 27
+    "shots": 27,
+    "hits": 28
    },
    {
     "nom": "Tyler Toffoli",
@@ -202,7 +202,7 @@
    },
    {
     "nom": "Jake Walman",
-    "gp": 14,
+    "gp": 15,
     "goals": 0,
     "assists": 3,
     "pts": 3,
@@ -211,11 +211,11 @@
     "ppg": 0,
     "gwg": 0,
     "shots": 14,
-    "hits": 14
+    "hits": 16
    },
    {
     "nom": "Casey Mittelstadt",
-    "gp": 14,
+    "gp": 15,
     "goals": 0,
     "assists": 2,
     "pts": 2,
@@ -223,25 +223,25 @@
     "pim": 0,
     "ppg": 0,
     "gwg": 0,
-    "shots": 10,
+    "shots": 12,
     "hits": 6
    },
    {
     "nom": "Maveric Lamoureux",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 1,
     "pts": 2,
-    "plusminus": -7,
+    "plusminus": -6,
     "pim": 13,
     "ppg": 1,
     "gwg": 0,
-    "shots": 20,
-    "hits": 37
+    "shots": 21,
+    "hits": 40
    },
    {
     "nom": "Jakub Lauko",
-    "gp": 9,
+    "gp": 10,
     "goals": 1,
     "assists": 0,
     "pts": 1,
@@ -250,11 +250,11 @@
     "ppg": 0,
     "gwg": 0,
     "shots": 2,
-    "hits": 4
+    "hits": 5
    },
    {
     "nom": "Adam Lowry",
-    "gp": 18,
+    "gp": 19,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -281,15 +281,15 @@
    },
    {
     "nom": "Hugo Hanefelt",
-    "gp": 13,
+    "gp": 14,
     "pim": 0,
     "w": 3,
     "l": 7,
-    "t": 2,
-    "avg": 4.25,
-    "svpct": 0.867,
+    "t": 3,
+    "avg": 4.2,
+    "svpct": 0.871,
     "so": 0,
-    "mp": 706
+    "mp": 771
    },
    {
     "nom": "Topias Leinonen",
@@ -306,85 +306,85 @@
   ]
  },
  "xtra": {
-  "releve": "2026-11-19T11:35:56.511Z",
-  "date": "11/19/2026",
+  "releve": "2026-11-21T10:57:54.813Z",
+  "date": "11/21/2026",
   "joueurs": [
    {
     "nom": "Aaron Ekblad",
     "pos": "D",
-    "gp": 18,
+    "gp": 19,
     "goals": 2,
     "assists": 7,
     "pts": 9,
-    "shots": 23,
+    "shots": 25,
     "pim": 2,
-    "mp": 422,
-    "hits": 39
+    "mp": 449,
+    "hits": 40
    },
    {
     "nom": "Adam Lowry",
     "pos": "C",
-    "gp": 18,
+    "gp": 19,
     "goals": 0,
     "assists": 0,
     "pts": 0,
     "shots": 6,
     "pim": 0,
-    "mp": 72,
+    "mp": 76,
     "hits": 4
    },
    {
     "nom": "Casey Mittelstadt",
     "pos": "RW",
-    "gp": 14,
+    "gp": 15,
     "goals": 0,
     "assists": 2,
     "pts": 2,
-    "shots": 10,
+    "shots": 12,
     "pim": 0,
-    "mp": 90,
+    "mp": 91,
     "hits": 6
    },
    {
     "nom": "Cole Sillinger",
     "pos": "LW",
-    "gp": 18,
+    "gp": 19,
     "goals": 3,
-    "assists": 8,
-    "pts": 11,
-    "shots": 39,
-    "pim": 8,
-    "mp": 340,
-    "hits": 18
+    "assists": 9,
+    "pts": 12,
+    "shots": 42,
+    "pim": 10,
+    "mp": 360,
+    "hits": 21
    },
    {
     "nom": "Dante Fabbro",
     "pos": "D",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
-    "assists": 10,
-    "pts": 14,
-    "shots": 40,
+    "assists": 11,
+    "pts": 15,
+    "shots": 43,
     "pim": 2,
-    "mp": 385,
-    "hits": 29
+    "mp": 411,
+    "hits": 32
    },
    {
     "nom": "Frank Nazar",
     "pos": "C",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
     "assists": 13,
     "pts": 17,
     "shots": 28,
-    "pim": 12,
-    "mp": 297,
-    "hits": 20
+    "pim": 14,
+    "mp": 312,
+    "hits": 22
    },
    {
     "nom": "Hugo Hanefelt",
     "pos": "G",
-    "gp": 13,
+    "gp": 14,
     "goals": 0,
     "assists": 0,
     "pts": 0,
@@ -392,128 +392,128 @@
     "pim": 0,
     "mp": 0,
     "hits": 0,
-    "qg": 3,
-    "hs": 3
+    "qg": 4,
+    "hs": 4
    },
    {
     "nom": "Jake Walman",
     "pos": "D",
-    "gp": 14,
+    "gp": 15,
     "goals": 0,
     "assists": 3,
     "pts": 3,
     "shots": 14,
     "pim": 14,
-    "mp": 207,
-    "hits": 14
+    "mp": 220,
+    "hits": 16
    },
    {
     "nom": "Jakub Lauko",
     "pos": "C",
-    "gp": 9,
+    "gp": 10,
     "goals": 1,
     "assists": 0,
     "pts": 1,
     "shots": 2,
     "pim": 0,
-    "mp": 32,
-    "hits": 4
+    "mp": 36,
+    "hits": 5
    },
    {
     "nom": "Joel Farabee",
     "pos": "RW",
-    "gp": 18,
-    "goals": 7,
-    "assists": 4,
-    "pts": 11,
-    "shots": 61,
+    "gp": 19,
+    "goals": 8,
+    "assists": 5,
+    "pts": 13,
+    "shots": 65,
     "pim": 23,
-    "mp": 371,
-    "hits": 22
+    "mp": 392,
+    "hits": 24
    },
    {
     "nom": "Keegan Kolesar",
     "pos": "RW",
-    "gp": 18,
+    "gp": 19,
     "goals": 3,
     "assists": 3,
     "pts": 6,
-    "shots": 15,
+    "shots": 16,
     "pim": 2,
-    "mp": 163,
-    "hits": 22
+    "mp": 178,
+    "hits": 23
    },
    {
     "nom": "Kirill Kaprizov",
     "pos": "LW",
-    "gp": 18,
-    "goals": 4,
+    "gp": 19,
+    "goals": 6,
     "assists": 9,
-    "pts": 13,
-    "shots": 47,
+    "pts": 15,
+    "shots": 51,
     "pim": 4,
-    "mp": 402,
-    "hits": 23
+    "mp": 427,
+    "hits": 25
    },
    {
     "nom": "Luke Tuch",
     "pos": "LW",
-    "gp": 18,
+    "gp": 19,
     "goals": 6,
-    "assists": 5,
-    "pts": 11,
+    "assists": 7,
+    "pts": 13,
     "shots": 29,
     "pim": 44,
-    "mp": 312,
-    "hits": 28
+    "mp": 330,
+    "hits": 29
    },
    {
     "nom": "Matthew Tkachuk",
     "pos": "RW",
-    "gp": 18,
+    "gp": 19,
     "goals": 10,
-    "assists": 7,
-    "pts": 17,
-    "shots": 41,
-    "pim": 8,
-    "mp": 382,
-    "hits": 48
+    "assists": 9,
+    "pts": 19,
+    "shots": 44,
+    "pim": 12,
+    "mp": 407,
+    "hits": 51
    },
    {
     "nom": "Maveric Lamoureux",
     "pos": "D",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 1,
     "pts": 2,
-    "shots": 20,
+    "shots": 21,
     "pim": 13,
-    "mp": 307,
-    "hits": 37
+    "mp": 325,
+    "hits": 40
    },
    {
     "nom": "Morgan Frost",
     "pos": "C",
-    "gp": 18,
+    "gp": 19,
     "goals": 4,
     "assists": 11,
     "pts": 15,
-    "shots": 39,
+    "shots": 41,
     "pim": 6,
-    "mp": 338,
-    "hits": 24
+    "mp": 356,
+    "hits": 25
    },
    {
     "nom": "Noah Juulsen",
     "pos": "D",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 3,
     "pts": 4,
-    "shots": 26,
+    "shots": 27,
     "pim": 30,
-    "mp": 328,
-    "hits": 27
+    "mp": 348,
+    "hits": 28
    },
    {
     "nom": "Olen Zellweger",
@@ -530,14 +530,14 @@
    {
     "nom": "Phillip Danault",
     "pos": "C",
-    "gp": 14,
-    "goals": 5,
-    "assists": 4,
-    "pts": 9,
-    "shots": 39,
+    "gp": 15,
+    "goals": 6,
+    "assists": 5,
+    "pts": 11,
+    "shots": 40,
     "pim": 4,
-    "mp": 275,
-    "hits": 25
+    "mp": 301,
+    "hits": 26
    },
    {
     "nom": "Samuel Ersson",
@@ -556,14 +556,14 @@
    {
     "nom": "Tobias Bjornfot",
     "pos": "D",
-    "gp": 18,
+    "gp": 19,
     "goals": 1,
     "assists": 6,
     "pts": 7,
-    "shots": 25,
+    "shots": 27,
     "pim": 4,
-    "mp": 349,
-    "hits": 33
+    "mp": 371,
+    "hits": 36
    },
    {
     "nom": "Topias Leinonen",
