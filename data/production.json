@@ -1,9 +1,9 @@
 {
- "genere": "2026-11-26T08:58:17.083Z",
+ "genere": "2026-11-28T11:38:24.351Z",
  "equipe": "NEWJERSEY",
  "fiche": "NEWJERSEY 6-13-3",
  "pointage": {
-  "releve": "2026-11-26T08:58:17.083Z",
+  "releve": "2026-11-28T11:38:24.351Z",
   "patineurs": [
    {
     "nom": "Matthew Tkachuk",
@@ -306,8 +306,8 @@
   ]
  },
  "xtra": {
-  "releve": "2026-11-26T08:58:17.083Z",
-  "date": "11/26/2026",
+  "releve": "2026-11-28T11:38:24.351Z",
+  "date": "11/28/2026",
   "joueurs": [
    {
     "nom": "Aaron Ekblad",
@@ -347,7 +347,7 @@
    },
    {
     "nom": "Cole Sillinger",
-    "pos": "LW",
+    "pos": "RW",
     "gp": 22,
     "goals": 3,
     "assists": 11,
@@ -421,7 +421,7 @@
    },
    {
     "nom": "Joel Farabee",
-    "pos": "RW",
+    "pos": "LW",
     "gp": 22,
     "goals": 9,
     "assists": 7,
@@ -445,7 +445,7 @@
    },
    {
     "nom": "Kirill Kaprizov",
-    "pos": "LW",
+    "pos": "RW",
     "gp": 22,
     "goals": 7,
     "assists": 10,
@@ -469,7 +469,7 @@
    },
    {
     "nom": "Matthew Tkachuk",
-    "pos": "RW",
+    "pos": "LW",
     "gp": 22,
     "goals": 12,
     "assists": 10,
